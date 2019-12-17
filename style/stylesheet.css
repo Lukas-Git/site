@@ -1,10 +1,12 @@
 body {
-  background-color: #FFD119;
-  color: black
+  background-color: #F5EDDC;
+  color: black;
 }
 section {
   background-color: #00AB2E;
   color: black;
 }
-
+nav {
+  background-color: #FFE621;
+  color: black;
 
