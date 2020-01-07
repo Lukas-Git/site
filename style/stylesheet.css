@@ -4,10 +4,11 @@ body {
 }
 
 header h1{
+    background-color: black;
     color: #FFE621;
     margin-left: auto;
     margin-right: auto;
-    width: 20em;
+    width: 30em;
 }
 
 figure {
