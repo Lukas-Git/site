@@ -11,7 +11,7 @@ header h1{
 
 figure {
   display: block;
-  text-align: center;
+  img-align: center;
 }
 section {
   background-color: #00AB2E;
