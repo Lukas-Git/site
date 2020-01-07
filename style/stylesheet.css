@@ -6,14 +6,14 @@ body {
 header h1{
     margin-left: auto;
     margin-right: auto;
-    width: 35em 
+    width: 20em 
 }
 
 figure {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 12em
+  width: 6em
 }
 section {
   background-color: #00AB2E;
