@@ -24,7 +24,4 @@ section {
 nav {
   background-color: #FFE621;
   color: black;
-  marign-left: auto;
-  margin-right: auto;
-  width: 40em;
-
+  text-align: center;
