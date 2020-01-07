@@ -4,16 +4,14 @@ body {
 }
 
 header h1{
-    background-color: black;
-    color: #FFE621;
-    text-align: center;
+   background-color: black;
+   color: #FFE621;
+   text-align: center;
 }
 
 figure {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 0.2em;
+  text-align: center;
 }
 section {
   background-color: #00AB2E;
