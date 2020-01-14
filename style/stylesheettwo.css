@@ -3,7 +3,7 @@
   width: 100wh;
   display: grid;
   grid-template-rows: 200px 1fr 50px;
-  grid template-columns: 22% 22% 22% 22% 12%;
+  grid template-columns: 20% 20% 20% 20% 20%;
   grid-template-areas:
     "header header header header sidebar"
     "content content content content sidebar"
