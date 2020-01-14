@@ -8,8 +8,15 @@
     "header header header header sidebar"
     "content content content content sidebar"
     "footer footer footer footer sidebar"
+}
+
 header {
   background-color: #FFE621;
   color: black;
   text-align: center;
-  }
+}
+content {
+  background-color: #FFE621;
+  color: black;
+  text-align: center;
+}
