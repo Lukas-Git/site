@@ -11,6 +11,9 @@ container{
 }
 
 header {
+  display: grid;
+  grid-template-columns: 3fr 1fr;	
+  grid-template-rows: 150px 1fr 1fr 100px;
   background-color: #FFE621;
   color: black;
   text-align: center;
