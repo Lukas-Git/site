@@ -6,7 +6,6 @@ header {
 content {
   display: grid;
   grid-template-columns: 3fr 1fr;	
-  grid-template-rows: 150px 1fr 1fr 100px;
   min-height: 100vh;
   background-color: #FFE621;
   color: black;
