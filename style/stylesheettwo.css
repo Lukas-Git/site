@@ -11,6 +11,8 @@ content {
   text-align: center;
 }
 footer {
+  display: grid;
+  grid-row: 4 / 1;
   background-color: #FFE621;
   color: black;
   text-align: center;
