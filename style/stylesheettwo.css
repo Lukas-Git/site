@@ -10,7 +10,6 @@ body {
 	background-color: #A09F9D;
 	gap: 10px 10px;
 }
-
 header {
   grid-column: 1 / span 2;
 	grid-row: 1 / span 2;
