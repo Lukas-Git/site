@@ -33,8 +33,15 @@ footer {
 }
 sidebar {
   grid-column: 3 / span 3;
-	grid-row: 1 / span 4;
+	grid-row: 1 / span 3;
   background-color: #FFE621;
   color: black;
   text-align: center;
 }
+nav {
+  grid-column: 3 / span 3;
+	grid-row: 3 / span 4;
+  background-color: white;
+  color: black;
+  text-align: center;
+}	
