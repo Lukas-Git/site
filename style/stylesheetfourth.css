@@ -20,25 +20,25 @@ header {
 }
 content {
 	grid-row: 2 / span 2;
-  background-color: white;
+  background-color: #FFE621;
   color: black;
-  text-align: center;
+  margin :auto;
 }
 footer {
 	grid-row: 3 / span 3;
   background-color: #FFE621;
   color: black;
-  text-align: center;
+  margin :auto;
 }
 sidebar {
 	grid-row: 4 / span 4;
-  background-color: white;
+  background-color: #FFE621;
   color: black;
-  text-align: center;
+  margin :auto;
 }
 nav {
 	grid-row: 5 / span 5;
   background-color: #FFE621;
   color: black;
-  text-align: center;
+  margin :auto;
 }
