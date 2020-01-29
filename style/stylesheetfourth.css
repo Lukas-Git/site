@@ -1,3 +1,17 @@
+
+body {
+	
+	margin: 10px auto;
+	font-family: sans-serif;
+	color: #333333;
+	display: grid;
+	grid-template-columns: 1Fr;
+	grid-template-rows: 1Fr 1Fr 1Fr 1Fr 1Fr;
+	min-height: 100vh;
+	background-color: #A09F9D;
+	gap: 10px 10px;
+}
+
 header {
   background-color: #FFE621;
   color: black;
